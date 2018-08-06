@@ -1,4 +1,4 @@
-# IIT Guwahari proxy switcher
+# IIT Guwahati proxy switcher
 A super simple, super stupid Powershell script
 
 ## Introduction
