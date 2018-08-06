@@ -21,10 +21,11 @@ So all that this script does is:
 5. If no, turn off the proxy
 
 ## How to run
-1. Open Powershell on your Windows PC
-2. Navigate to the folder where the script is stored
-3. Execute it by typing its name
-4. `Ctrl+C` to close it
+1. Download the `change-proxy.ps1` script
+2. Open Powershell on your Windows PC
+3. Navigate to the folder where the script is stored
+4. Execute it by typing its name
+5. `Ctrl+C` to close it
 
 ## Tweaking the script
 You can add your own SSIDs to the script by adding the network names in double-quotes ("") separated by commas (,) to the `SSIDs` array in the script
